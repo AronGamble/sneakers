@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\netcoreapp3.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/30e2203a-1e9e-46db-bda9-542383d60975/resourceGroups/Sneakers/providers/Microsoft.Web/sites/sneakerspike"
+}
