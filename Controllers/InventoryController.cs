@@ -32,6 +32,7 @@ namespace sneakers.Controllers
                 {
                     new Sneaker()
                     {
+                        Id = 1,
                         Brand = "Adidas",
                         Model = "ZX750HD",
                         Colourway = "White / Grey / Orange",
@@ -41,6 +42,7 @@ namespace sneakers.Controllers
                     },
                     new Sneaker()
                     {
+                        Id = 2,
                         Brand = "Adidas",
                         Model = "Originals Stan Smith",
                         Colourway = "White / Green",
