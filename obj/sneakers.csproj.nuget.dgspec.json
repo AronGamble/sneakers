@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\sneakers\\sneakers.csproj": {}
+    "c:\\projects\\sneakers\\sneakers.csproj": {}
   },
   "projects": {
-    "C:\\projects\\sneakers\\sneakers.csproj": {
+    "c:\\projects\\sneakers\\sneakers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\sneakers\\sneakers.csproj",
+        "projectUniqueName": "c:\\projects\\sneakers\\sneakers.csproj",
         "projectName": "sneakers",
-        "projectPath": "C:\\projects\\sneakers\\sneakers.csproj",
+        "projectPath": "c:\\projects\\sneakers\\sneakers.csproj",
         "packagesPath": "C:\\Users\\Aron\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\sneakers\\obj\\",
+        "outputPath": "c:\\projects\\sneakers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

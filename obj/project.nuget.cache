@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2gnxbL4y/dZVXXHyaN5AsHc+se0DLTl0yfbFdYq28LKpez/8U4AA2EOKfGuCr5vYlbzdnYKpeQSEKllPGXNx8w==",
+  "dgSpecHash": "Yuf+4ez3NtXqKD4yJskpLwM+TFgG7HHBYNxW6cHitC5EGCByprp6C4qgmpWadg6GpBk4gECtzt59dmCfGLc5dg==",
   "success": true,
-  "projectFilePath": "C:\\projects\\sneakers\\sneakers.csproj",
+  "projectFilePath": "c:\\projects\\sneakers\\sneakers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aron\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\Aron\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"

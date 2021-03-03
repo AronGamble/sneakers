@@ -32,17 +32,20 @@ namespace sneakers.Controllers
                 {
                     new Sneaker()
                     {
-                        Brand = "Nike",
-                        Model = "BW/97",
-                        Colourway = "Silver, Purple and White",
-                        PurchaseDate = new DateTime(2017, 9, 1)
+                        Brand = "Adidas",
+                        Model = "ZX750HD",
+                        Colourway = "White / Grey / Orange",
+                        PurchaseDate = new DateTime(2020, 12, 25),
+                        Image = "https://sneakersimages.blob.core.windows.net/sneakers/IMG-4906.jpg"
+
                     },
                     new Sneaker()
                     {
                         Brand = "Adidas",
-                        Model = "Originals Jeans",
-                        Colourway = "Red and White",
-                        PurchaseDate = new DateTime(2019, 9, 1)
+                        Model = "Originals Stan Smith",
+                        Colourway = "White / Green",
+                        PurchaseDate = new DateTime(2020, 12, 25),
+                        Image = "https://sneakersimages.blob.core.windows.net/sneakers/3EB6F1D7-D136-4615-91E2-F5E6C684C27D.JPG"
                     }
                 };
 
