@@ -48,6 +48,15 @@ namespace sneakers.Controllers
                         Colourway = "White / Green",
                         PurchaseDate = new DateTime(2020, 12, 25),
                         Image = "https://sneakersimages.blob.core.windows.net/sneakers/3EB6F1D7-D136-4615-91E2-F5E6C684C27D.JPG"
+                    },                 
+                    new Sneaker()
+                    {
+                        Id = 3,
+                        Brand = "Nike",
+                        Model = "Drop-Type Premium",
+                        Colourway = "White",
+                        PurchaseDate = new DateTime(2020, 12, 25),
+                        Image = "https://sneakersimages.blob.core.windows.net/sneakers/IMG-4907.jpg"
                     }
                 };
 
